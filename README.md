@@ -5,9 +5,9 @@ Enjoy this demo of the Connect Four + CPU playergame I had laying around on my c
 
 This description highlights:
 
-The core game mechanics
-The CPU opponent feature
-The clean implementation using vanilla JavaScript
-The modern UI/UX design
-The responsive nature of the game
-The fun and challenging aspects
+- The core game mechanics
+- The CPU opponent feature
+- The clean implementation using vanilla JavaScript
+- The modern UI/UX design
+- The responsive nature of the game
+- The fun and challenging aspects
